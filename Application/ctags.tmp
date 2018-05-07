@@ -1,0 +1,132 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+BLINK	test.h	30;"	macro
+BLU	test.h	21;"	macro
+BOLD	test.h	26;"	macro
+CYN	test.h	23;"	macro
+END	test.h	29;"	macro
+Fork	test.h	34;"	enumerator	enum:tag_b
+GRN	test.h	19;"	macro
+ITALIC	test.h	27;"	macro
+MAG	test.h	22;"	macro
+NRM	test.h	17;"	macro
+PrintHello	app_thread.c	39;"	function
+PrintHello	app_thread.c	5;"	prototype	file:
+RED	test.h	18;"	macro
+STRIKE	test.h	28;"	macro
+Sending_protocol	client_dpendency.c	57;"	function
+Sending_protocol	client_main.c	4;"	prototype	file:
+TCP_socket	server_dpendency.c	58;"	function
+TCP_socket	server_dpendency.h	15;"	prototype
+Tcp_client	client_dpendency.c	102;"	function
+Tcp_client	client_dpendency.h	12;"	prototype
+Thread	test.h	34;"	enumerator	enum:tag_b
+UDP_socket	server_dpendency.c	44;"	function
+UDP_socket	server_dpendency.h	14;"	prototype
+ULN	test.h	25;"	macro
+Udp_client	client_dpendency.c	118;"	function
+Udp_client	client_dpendency.h	13;"	prototype
+WHT	test.h	24;"	macro
+YEL	test.h	20;"	macro
+__CLIENT_DPENDENCY_H_	client_dpendency.h	2;"	macro
+__SERVER_DPENDENCY_H_	server_dpendency.h	2;"	macro
+__TEST_H_	test.h	2;"	macro
+add_front	app_dll.c	13;"	prototype	file:
+add_front	app_dll.c	47;"	function
+add_ipc	app_ipc.c	23;"	function
+add_ipc	app_ipc.c	4;"	prototype	file:
+addr_size	client_dpendency.c	87;"	local
+addr_size	client_dpendency.h	9;"	variable
+addr_size	server_dpendency.c	92;"	local
+addr_size	server_dpendency.h	12;"	variable
+app_thread	app_thread.c	23;"	function
+app_thread	app_thread.c	4;"	prototype	file:
+back	app_dll.c	7;"	member	struct:dll	file:
+ch	test.h	41;"	member	struct:tag
+cli_addr	server_dpendency.h	10;"	variable
+cli_size	server_dpendency.h	11;"	variable
+client_fd	client_dpendency.h	6;"	variable
+client_u_fd	client_dpendency.h	7;"	variable
+cnt	client_dpendency.c	7;"	local
+connfd	server_dpendency.h	7;"	variable
+data	app_dll.c	6;"	member	struct:dll	file:
+data	client_dpendency.c	9;"	local
+display	client_dpendency.c	5;"	function
+display	client_main.c	3;"	prototype	file:
+display_menu	app_dll.c	12;"	prototype	file:
+dll	app_dll.c	5;"	struct	file:
+dll	test.h	34;"	enumerator	enum:tag_b
+frame	test.h	44;"	typedef
+func1	server_dpendency.c	80;"	function
+func1	server_dpendency.h	16;"	prototype
+func2	server_dpendency.c	88;"	function
+func2	server_dpendency.h	17;"	prototype
+head	app_dll.c	20;"	local
+head	client_dpendency.c	4;"	variable
+head	client_dpendency.h	5;"	variable
+head	server_dpendency.c	3;"	variable
+head_dll	app_dll.c	3;"	variable
+head_ipc	app_ipc.c	3;"	variable
+head_th	app_thread.c	3;"	variable
+i	app_dll.c	19;"	local
+i	app_ipc.c	8;"	local
+i	client_dpendency.c	11;"	local
+in	test.h	39;"	member	struct:tag
+init_server	server_dpendency.c	5;"	function
+init_server	server_dpendency.h	13;"	prototype
+init_server	server_main.c	3;"	prototype	file:
+ipc	test.h	34;"	enumerator	enum:tag_b
+main	client_main.c	7;"	function
+main	current_time.c	4;"	function
+main	server_main.c	4;"	function
+msg_op	test.h	34;"	typedef
+msg_type	test.h	33;"	typedef
+msq_dll_recv	app_dll.c	11;"	prototype	file:
+msq_dll_recv	app_dll.c	16;"	function
+msq_dll_recv	server_dpendency.h	21;"	prototype
+msq_ipc_recv	app_ipc.c	6;"	function
+msq_ipc_recv	server_dpendency.h	23;"	prototype
+msq_server	server_dpendency.c	98;"	function
+msq_server	server_dpendency.h	20;"	prototype
+msq_thread_recv	app_thread.c	6;"	function
+msq_thread_recv	server_dpendency.h	22;"	prototype
+next	app_dll.c	8;"	member	struct:dll	file:
+node	app_dll.c	9;"	typedef	file:
+nu	app_dll.c	49;"	local
+on	server_dpendency.c	64;"	local
+out	test.h	40;"	member	struct:tag
+payload	test.h	43;"	member	struct:tag
+payload_size	test.h	42;"	member	struct:tag
+print	app_dll.c	14;"	prototype	file:
+print	app_dll.c	38;"	function
+rc	app_thread.c	26;"	local
+receveing_protocol	client_dpendency.c	83;"	function
+receveing_protocol	client_main.c	5;"	prototype	file:
+seq_num	test.h	38;"	member	struct:tag
+serv_addr	client_dpendency.h	8;"	variable
+serv_addr	server_dpendency.h	9;"	variable
+server_fd	server_dpendency.h	7;"	variable
+size	app_dll.c	18;"	local
+size	app_ipc.c	8;"	local
+size	app_thread.c	8;"	local
+size	server_dpendency.c	101;"	local
+status	app_thread.c	14;"	local
+sw	client_dpendency.c	11;"	local
+switchCHOICE	server_dpendency.c	30;"	function
+switchCHOICE	server_dpendency.h	18;"	prototype
+t	app_thread.c	27;"	local
+tag	test.h	36;"	struct
+tag_a	test.h	33;"	enum
+tag_b	test.h	34;"	enum
+tcp	test.h	33;"	enumerator	enum:tag_a
+threads	app_thread.c	25;"	local
+tid	app_thread.c	41;"	local
+time	current_time.c	6;"	local
+timeinfo	current_time.c	7;"	local
+udp	test.h	33;"	enumerator	enum:tag_a
+udp_fd	server_dpendency.h	8;"	variable
